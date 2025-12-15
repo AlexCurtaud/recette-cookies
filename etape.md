@@ -5,8 +5,5 @@
 5. Beurrer une plaque allant au four et former les cookies sur la plaque.
 6. Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés pour la cuisson.
 7. Enfourner pour 10 minutes de cuisson.
-<<<<<<< HEAD
 8. Boost
-=======
 8. Miam
->>>>>>> 159d8b9 (etape-1-0-2)
